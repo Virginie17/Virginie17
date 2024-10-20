@@ -39,10 +39,6 @@ Advanced TypeScript to strengthen type safety and maintainability of my projects
 i18next for Front-End to enhance my projects with multilingual support.
 
 
-💼 My Business: B to V développement
-
-I recently launched my own web development business, B to V développement, where I offer freelance services in web development. I'm open to collaboration on interesting projects, both personal and professional.
-
 📫 How to reach me
 
 If you'd like to get in touch, feel free to contact me via:
